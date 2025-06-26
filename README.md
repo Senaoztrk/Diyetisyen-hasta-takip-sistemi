@@ -33,7 +33,7 @@ Bu proje, diyetisyenler ile hastalar arasında etkileşimi dijitalleştirerek ta
 ## 📧 Geliştiriciler
 
 - Cevahir Şahin – [`@cevahirsahin`](https://github.com/cevahirsahin)
-- Beyza Süner
-- Senanur Öztürk
+- Beyza Süner 
+- Senanur Öztürk- [`@Senaoztrk`](https://github.com/Senaoztrk)
 
 > Bu sistem, mezuniyet projesi kapsamında geliştirilmiştir.

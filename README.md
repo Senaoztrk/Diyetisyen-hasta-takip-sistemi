@@ -1,4 +1,4 @@
-# 🥗 Diyetisyen-Hasta Takip Sistemi - Backend
+# 🥗 DiyetApp - Frontend
 
 Bu proje, diyetisyenler ile hastalar arasında etkileşimi dijitalleştirerek takip sürecini kolaylaştırmayı amaçlayan bir web uygulamasıdır. Kullanıcılar günlük olarak öğün, su tüketimi ve fiziksel aktivite bilgilerini girerken; diyetisyenler bu verileri anlık olarak takip edebilir ve değerlendirme yapabilir.
 
